@@ -1,4 +1,4 @@
-# apache-spark-source-eclipse-setup
+# How to import Apache Spark source code into Eclipse and compile it on Windows 10
 * Step 1: Install Bash on Windows 10 https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/
 * Step 2: Download Source code from github https://github.com/apache/spark/tree/v2.1.0
 * Step 3: Open powershell, go to code directory, run command "mvn clean package eclipse:eclipse" http://www.beingsoftwareprofessional.com/2016/02/15/apache-spark-building-applications-with-maven-eclipse/
