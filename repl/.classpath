@@ -7,6 +7,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="src" path="scala-2.11/src/test/scala"/>
 	<classpathentry kind="src" output="target/scala-2.11/test-classes" path="src/test/scala">
 		<attributes>
 			<attribute name="optional" value="true"/>
@@ -19,7 +20,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry excluding="**/*.java" kind="src" path="target/maven-shared-archive-resources"/>
-	<classpathentry kind="src" path="scala-2.11/src/test/scala"/>
 	<classpathentry kind="var" path="M2_REPO/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" sourcepath="M2_REPO/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar" sourcepath="M2_REPO/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar"/>
 	<classpathentry kind="var" path="M2_REPO/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar" sourcepath="M2_REPO/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2-sources.jar"/>

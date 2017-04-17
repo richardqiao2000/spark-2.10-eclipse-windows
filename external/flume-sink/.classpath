@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="src/main/avro"/>
 	<classpathentry kind="src" output="target/scala-2.11/classes" path="src/main/scala">
 		<attributes>
 			<attribute name="optional" value="true"/>
@@ -18,7 +19,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="target/scala-2.11/src_managed/main/compiled_avro"/>
-	<classpathentry kind="src" path="src/main/avro"/>
 	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
