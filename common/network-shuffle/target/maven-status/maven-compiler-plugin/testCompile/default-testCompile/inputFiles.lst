@@ -1,0 +1,10 @@
+E:\code\scala-ide-4.5\spark-2.10\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\TestShuffleDataContext.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\ExternalShuffleCleanupSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\ExternalShuffleBlockResolverSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-shuffle\src\test\java\org\apache\spark\network\sasl\SaslIntegrationSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\ExternalShuffleBlockHandlerSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\ExternalShuffleSecuritySuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\OneForOneBlockFetcherSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\ExternalShuffleIntegrationSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\RetryingBlockFetcherSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-shuffle\src\test\java\org\apache\spark\network\shuffle\BlockTransferMessagesSuite.java

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <mkdir dir="E:\code\scala-ide-4.5\spark-2.10\mllib-local\target/tmp"/>
+</target>
+</project>

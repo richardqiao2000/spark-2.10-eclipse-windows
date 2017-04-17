@@ -1,0 +1,13 @@
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\sasl\SparkSaslSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\protocol\MessageWithHeaderSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\TestUtils.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\TransportClientFactorySuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\util\TransportFrameDecoderSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\StreamSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\TestManagedBuffer.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\RpcIntegrationSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\server\OneForOneStreamManagerSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\TransportResponseHandlerSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\RequestTimeoutIntegrationSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\ProtocolSuite.java
+E:\code\scala-ide-4.5\spark-2.10\common\network-common\src\test\java\org\apache\spark\network\ChunkFetchIntegrationSuite.java

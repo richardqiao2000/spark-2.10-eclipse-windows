@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/scala-2.11/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/scala-2.11/classes" path="src/main/scala">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/scala-2.11/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/scala-2.11/test-classes" path="src/test/scala">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**/*.java" kind="src" path="target/maven-shared-archive-resources"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8.jar" sourcepath="M2_REPO/org/scala-lang/scala-reflect/2.11.8/scala-reflect-2.11.8-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar" sourcepath="M2_REPO/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8.jar" sourcepath="M2_REPO/org/scala-lang/scala-compiler/2.11.8/scala-compiler-2.11.8-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4.jar" sourcepath="M2_REPO/org/scala-lang/modules/scala-xml_2.11/1.0.4/scala-xml_2.11-1.0.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar" sourcepath="M2_REPO/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/clapper/classutil_2.11/1.0.6/classutil_2.11-1.0.6.jar" sourcepath="M2_REPO/org/clapper/classutil_2.11/1.0.6/classutil_2.11-1.0.6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm/5.0.2/asm-5.0.2.jar" sourcepath="M2_REPO/org/ow2/asm/asm/5.0.2/asm-5.0.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm-commons/5.0.2/asm-commons-5.0.2.jar" sourcepath="M2_REPO/org/ow2/asm/asm-commons/5.0.2/asm-commons-5.0.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm-tree/5.0.2/asm-tree-5.0.2.jar" sourcepath="M2_REPO/org/ow2/asm/asm-tree/5.0.2/asm-tree-5.0.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/ow2/asm/asm-util/5.0.2/asm-util-5.0.2.jar" sourcepath="M2_REPO/org/ow2/asm/asm-util/5.0.2/asm-util-5.0.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/clapper/grizzled-scala_2.11/1.4.0/grizzled-scala_2.11-1.4.0.jar" sourcepath="M2_REPO/org/clapper/grizzled-scala_2.11/1.4.0/grizzled-scala_2.11-1.4.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scala-lang/modules/scala-async_2.11/0.9.1/scala-async_2.11-0.9.1.jar" sourcepath="M2_REPO/org/scala-lang/modules/scala-async_2.11/0.9.1/scala-async_2.11-0.9.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/jline/jline/2.12.1/jline-2.12.1.jar" sourcepath="M2_REPO/jline/jline/2.12.1/jline-2.12.1-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/clapper/grizzled-slf4j_2.11/1.0.2/grizzled-slf4j_2.11-1.0.2.jar" sourcepath="M2_REPO/org/clapper/grizzled-slf4j_2.11/1.0.2/grizzled-slf4j_2.11-1.0.2-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/spark-project/spark/unused/1.0.0/unused-1.0.0.jar" sourcepath="M2_REPO/org/spark-project/spark/unused/1.0.0/unused-1.0.0-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.jar" sourcepath="M2_REPO/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.12/junit-4.12.jar" sourcepath="M2_REPO/junit/junit/4.12/junit-4.12-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" sourcepath="M2_REPO/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/novocode/junit-interface/0.11/junit-interface-0.11.jar" sourcepath="M2_REPO/com/novocode/junit-interface/0.11/junit-interface-0.11-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar" sourcepath="M2_REPO/org/scala-sbt/test-interface/1.0/test-interface-1.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/scala-2.11/classes"/>
+</classpath>

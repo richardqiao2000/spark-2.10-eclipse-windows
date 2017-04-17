@@ -1,0 +1,94 @@
+products:
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\sql\catalyst\expressions\HiveHasher.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\sql\catalyst\expressions\HiveHasher.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\ByteArrayMethods.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\array\ByteArrayMethods.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\LongArray.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\array\LongArray.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\bitset\BitSetMethods.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\bitset\BitSetMethods.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\hash\Murmur3_x86_32.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\hash\Murmur3_x86_32.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\KVIterator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\KVIterator.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\HeapMemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\memory\HeapMemoryAllocator.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\memory\MemoryAllocator.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryBlock.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\memory\MemoryBlock.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryLocation.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\memory\MemoryLocation.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\UnsafeMemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\memory\UnsafeMemoryAllocator.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\Platform$1.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\Platform.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\ByteArray.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\types\ByteArray.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\CalendarInterval.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\types\CalendarInterval.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\UTF8String.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\types\UTF8String.class
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\UnsafeAlignedOffset.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\target\scala-2.11\classes\org\apache\spark\unsafe\UnsafeAlignedOffset.class
+binary dependencies:
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\sql\catalyst\expressions\HiveHasher.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\ByteArrayMethods.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\LongArray.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\bitset\BitSetMethods.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\hash\Murmur3_x86_32.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\KVIterator.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\HeapMemoryAllocator.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryAllocator.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryBlock.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryLocation.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\UnsafeMemoryAllocator.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\ByteArray.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\CalendarInterval.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\UTF8String.java -> C:\Users\SuqinChen\.m2\repository\com\esotericsoftware\kryo-shaded\3.0.3\kryo-shaded-3.0.3.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\UTF8String.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\UnsafeAlignedOffset.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+source dependencies:
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\sql\catalyst\expressions\HiveHasher.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\sql\catalyst\expressions\HiveHasher.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\sql\catalyst\expressions\HiveHasher.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\ByteArrayMethods.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\ByteArrayMethods.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\ByteArrayMethods.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\LongArray.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\LongArray.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\LongArray.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\LongArray.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryBlock.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\bitset\BitSetMethods.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\bitset\BitSetMethods.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\bitset\BitSetMethods.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\hash\Murmur3_x86_32.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\hash\Murmur3_x86_32.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\hash\Murmur3_x86_32.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\KVIterator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\KVIterator.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\HeapMemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\HeapMemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\HeapMemoryAllocator.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\HeapMemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryAllocator.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\HeapMemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryBlock.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\HeapMemoryAllocator.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryAllocator.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryBlock.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\UnsafeMemoryAllocator.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryBlock.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryBlock.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryBlock.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryBlock.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryLocation.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryLocation.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryLocation.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\UnsafeMemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\UnsafeMemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryAllocator.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\UnsafeMemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryBlock.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\UnsafeMemoryAllocator.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\UnsafeMemoryAllocator.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\ByteArray.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\ByteArray.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\ByteArray.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\CalendarInterval.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\CalendarInterval.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\UTF8String.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\UTF8String.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\ByteArrayMethods.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\UTF8String.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\hash\Murmur3_x86_32.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\UTF8String.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\UTF8String.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\UnsafeAlignedOffset.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\UnsafeAlignedOffset.java -> E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\UnsafeAlignedOffset.java
+external dependencies:
+class names:
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\sql\catalyst\expressions\HiveHasher.java -> org.apache.spark.sql.catalyst.expressions.HiveHasher
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\ByteArrayMethods.java -> org.apache.spark.unsafe.array.ByteArrayMethods
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\array\LongArray.java -> org.apache.spark.unsafe.array.LongArray
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\bitset\BitSetMethods.java -> org.apache.spark.unsafe.bitset.BitSetMethods
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\hash\Murmur3_x86_32.java -> org.apache.spark.unsafe.hash.Murmur3_x86_32
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\KVIterator.java -> org.apache.spark.unsafe.KVIterator
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\HeapMemoryAllocator.java -> org.apache.spark.unsafe.memory.HeapMemoryAllocator
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryAllocator.java -> org.apache.spark.unsafe.memory.MemoryAllocator
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryBlock.java -> org.apache.spark.unsafe.memory.MemoryBlock
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\MemoryLocation.java -> org.apache.spark.unsafe.memory.MemoryLocation
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\memory\UnsafeMemoryAllocator.java -> org.apache.spark.unsafe.memory.UnsafeMemoryAllocator
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java -> org.apache.spark.unsafe.Platform
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\Platform.java -> org.apache.spark.unsafe.Platform$1
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\ByteArray.java -> org.apache.spark.unsafe.types.ByteArray
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\CalendarInterval.java -> org.apache.spark.unsafe.types.CalendarInterval
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\types\UTF8String.java -> org.apache.spark.unsafe.types.UTF8String
+   E:\code\scala-ide-4.5\spark-2.10\common\unsafe\src\main\java\org\apache\spark\unsafe\UnsafeAlignedOffset.java -> org.apache.spark.unsafe.UnsafeAlignedOffset

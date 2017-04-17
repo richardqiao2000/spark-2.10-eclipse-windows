@@ -1,0 +1,133 @@
+products:
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\AbstractCommandBuilder.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\ChildProcAppHandle.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\CommandBuilderUtils$JavaVendor.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\CommandBuilderUtils.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherConnection.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\LauncherConnection.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\LauncherProtocol$Hello.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\LauncherProtocol$Message.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\LauncherProtocol$SetAppId.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\LauncherProtocol$SetState.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\LauncherProtocol$Stop.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\LauncherProtocol.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\LauncherServer$1.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\LauncherServer$2.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\LauncherServer$ServerConnection.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\LauncherServer.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\Main$1.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\Main$MainClassOptionParser.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\Main.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\NamedThreadFactory.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\NamedThreadFactory.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\OutputRedirector.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\OutputRedirector$1.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\OutputRedirector.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\OutputRedirector.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\SparkAppHandle$Listener.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\SparkAppHandle$State.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\SparkAppHandle.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\SparkClassCommandBuilder.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\SparkLauncher$ArgumentValidator.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\SparkLauncher.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\SparkSubmitCommandBuilder$1.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\SparkSubmitCommandBuilder$OptionParser.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\SparkSubmitCommandBuilder.class
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\target\scala-2.11\classes\org\apache\spark\launcher\SparkSubmitOptionParser.class
+binary dependencies:
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherConnection.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\NamedThreadFactory.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\OutputRedirector.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+source dependencies:
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherConnection.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\OutputRedirector.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherConnection.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherConnection.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherConnection.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherConnection.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherConnection.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\NamedThreadFactory.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\NamedThreadFactory.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\NamedThreadFactory.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\OutputRedirector.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\OutputRedirector.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\NamedThreadFactory.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\OutputRedirector.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java -> E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java
+external dependencies:
+class names:
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\AbstractCommandBuilder.java -> org.apache.spark.launcher.AbstractCommandBuilder
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\ChildProcAppHandle.java -> org.apache.spark.launcher.ChildProcAppHandle
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java -> org.apache.spark.launcher.CommandBuilderUtils
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\CommandBuilderUtils.java -> org.apache.spark.launcher.CommandBuilderUtils$JavaVendor
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherConnection.java -> org.apache.spark.launcher.LauncherConnection
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol$Hello
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol$Message
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol$SetAppId
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol$SetState
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherProtocol.java -> org.apache.spark.launcher.LauncherProtocol$Stop
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> org.apache.spark.launcher.LauncherServer
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> org.apache.spark.launcher.LauncherServer$1
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> org.apache.spark.launcher.LauncherServer$2
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\LauncherServer.java -> org.apache.spark.launcher.LauncherServer$ServerConnection
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> org.apache.spark.launcher.Main
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> org.apache.spark.launcher.Main$1
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\Main.java -> org.apache.spark.launcher.Main$MainClassOptionParser
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\NamedThreadFactory.java -> org.apache.spark.launcher.NamedThreadFactory
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\OutputRedirector.java -> org.apache.spark.launcher.OutputRedirector
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\OutputRedirector.java -> org.apache.spark.launcher.OutputRedirector$1
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java -> org.apache.spark.launcher.SparkAppHandle
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java -> org.apache.spark.launcher.SparkAppHandle$Listener
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkAppHandle.java -> org.apache.spark.launcher.SparkAppHandle$State
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkClassCommandBuilder.java -> org.apache.spark.launcher.SparkClassCommandBuilder
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> org.apache.spark.launcher.SparkLauncher
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkLauncher.java -> org.apache.spark.launcher.SparkLauncher$ArgumentValidator
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> org.apache.spark.launcher.SparkSubmitCommandBuilder
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> org.apache.spark.launcher.SparkSubmitCommandBuilder$1
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitCommandBuilder.java -> org.apache.spark.launcher.SparkSubmitCommandBuilder$OptionParser
+   E:\code\scala-ide-4.5\spark-2.10\launcher\src\main\java\org\apache\spark\launcher\SparkSubmitOptionParser.java -> org.apache.spark.launcher.SparkSubmitOptionParser

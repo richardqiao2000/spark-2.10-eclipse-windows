@@ -1,0 +1,46 @@
+products:
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\dstream\Java8APISuite.java -> E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\target\test-classes\test\org\apache\spark\java8\dstream\Java8APISuite.class
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\target\test-classes\test\org\apache\spark\java8\Java8RDDAPISuite$1.class
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\target\test-classes\test\org\apache\spark\java8\Java8RDDAPISuite.class
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\sql\Java8DatasetAggregatorSuite.java -> E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\target\test-classes\test\org\apache\spark\java8\sql\Java8DatasetAggregatorSuite.class
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\scala\test\org\apache\spark\java8\JDK8ScalaSuite.scala -> E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\target\test-classes\test\org\apache\spark\java8\JDK8ScalaSuite$$anonfun$1$$anonfun$apply$mcV$sp$1.class
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\scala\test\org\apache\spark\java8\JDK8ScalaSuite.scala -> E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\target\test-classes\test\org\apache\spark\java8\JDK8ScalaSuite$$anonfun$1.class
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\scala\test\org\apache\spark\java8\JDK8ScalaSuite.scala -> E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\target\test-classes\test\org\apache\spark\java8\JDK8ScalaSuite.class
+binary dependencies:
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\dstream\Java8APISuite.java -> C:\Users\SuqinChen\.m2\repository\com\google\guava\guava\14.0.1\guava-14.0.1.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\dstream\Java8APISuite.java -> C:\Users\SuqinChen\.m2\repository\junit\junit\4.12\junit-4.12.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\dstream\Java8APISuite.java -> C:\Users\SuqinChen\.m2\repository\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\dstream\Java8APISuite.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\dstream\Java8APISuite.java -> E:\code\scala-ide-4.5\spark-2.10\core\target\spark-core_2.11-2.1.2-SNAPSHOT.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\dstream\Java8APISuite.java -> E:\code\scala-ide-4.5\spark-2.10\streaming\target\spark-streaming_2.11-2.1.2-SNAPSHOT-tests.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\dstream\Java8APISuite.java -> E:\code\scala-ide-4.5\spark-2.10\streaming\target\spark-streaming_2.11-2.1.2-SNAPSHOT.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> C:\Users\SuqinChen\.m2\repository\com\google\guava\guava\14.0.1\guava-14.0.1.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> C:\Users\SuqinChen\.m2\repository\junit\junit\4.12\junit-4.12.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> C:\Users\SuqinChen\.m2\repository\org\apache\hadoop\hadoop-common\2.2.0\hadoop-common-2.2.0.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> C:\Users\SuqinChen\.m2\repository\org\apache\hadoop\hadoop-mapreduce-client-core\2.2.0\hadoop-mapreduce-client-core-2.2.0.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> C:\Users\SuqinChen\.m2\repository\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> E:\code\scala-ide-4.5\spark-2.10\core\target\spark-core_2.11-2.1.2-SNAPSHOT.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\sql\Java8DatasetAggregatorSuite.java -> C:\Users\SuqinChen\.m2\repository\junit\junit\4.12\junit-4.12.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\sql\Java8DatasetAggregatorSuite.java -> C:\Users\SuqinChen\.m2\repository\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\sql\Java8DatasetAggregatorSuite.java -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\sql\Java8DatasetAggregatorSuite.java -> E:\code\scala-ide-4.5\spark-2.10\sql\core\target\spark-sql_2.11-2.1.2-SNAPSHOT-tests.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\sql\Java8DatasetAggregatorSuite.java -> E:\code\scala-ide-4.5\spark-2.10\sql\core\target\spark-sql_2.11-2.1.2-SNAPSHOT.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\scala\test\org\apache\spark\java8\JDK8ScalaSuite.scala -> C:\Users\SuqinChen\.m2\repository\org\scala-lang\scala-library\2.11.8\scala-library-2.11.8.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\scala\test\org\apache\spark\java8\JDK8ScalaSuite.scala -> C:\Users\SuqinChen\.m2\repository\org\scalatest\scalatest_2.11\2.2.6\scalatest_2.11-2.2.6.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\scala\test\org\apache\spark\java8\JDK8ScalaSuite.scala -> D:\Program Files\Java\jdk1.8.0_92\jre\lib\rt.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\scala\test\org\apache\spark\java8\JDK8ScalaSuite.scala -> E:\code\scala-ide-4.5\spark-2.10\core\target\spark-core_2.11-2.1.2-SNAPSHOT-tests.jar
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\scala\test\org\apache\spark\java8\JDK8ScalaSuite.scala -> E:\code\scala-ide-4.5\spark-2.10\core\target\spark-core_2.11-2.1.2-SNAPSHOT.jar
+source dependencies:
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\dstream\Java8APISuite.java -> E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\dstream\Java8APISuite.java
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\sql\Java8DatasetAggregatorSuite.java -> E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\sql\Java8DatasetAggregatorSuite.java
+external dependencies:
+class names:
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\dstream\Java8APISuite.java -> test.org.apache.spark.java8.dstream.Java8APISuite
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> test.org.apache.spark.java8.Java8RDDAPISuite
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\Java8RDDAPISuite.java -> test.org.apache.spark.java8.Java8RDDAPISuite$1
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\java\test\org\apache\spark\java8\sql\Java8DatasetAggregatorSuite.java -> test.org.apache.spark.java8.sql.Java8DatasetAggregatorSuite
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\scala\test\org\apache\spark\java8\JDK8ScalaSuite.scala -> test.org.apache.spark.java8.JDK8ScalaSuite
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\scala\test\org\apache\spark\java8\JDK8ScalaSuite.scala -> test.org.apache.spark.java8.JDK8ScalaSuite$$anonfun$1
+   E:\code\scala-ide-4.5\spark-2.10\external\java8-tests\src\test\scala\test\org\apache\spark\java8\JDK8ScalaSuite.scala -> test.org.apache.spark.java8.JDK8ScalaSuite$$anonfun$1$$anonfun$apply$mcV$sp$1
